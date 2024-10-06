@@ -54,7 +54,7 @@ img{
     gap: 5rem;
 
 }
-#score-board, #computer_score{
+#user-score, #computer_score{
     font-size: 4rem;
 
 }
